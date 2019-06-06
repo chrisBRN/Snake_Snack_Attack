@@ -115,6 +115,23 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="console_functions.h" />
+    <ClInclude Include="dir_and_coordinates.h" />
+    <ClInclude Include="game.h" />
+    <ClInclude Include="level.h" />
+    <ClInclude Include="snack.h" />
+    <ClInclude Include="snake.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="targetver.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="console_functions.cpp" />
+    <ClCompile Include="game.cpp" />
+    <ClCompile Include="level.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="snack.cpp" />
+    <ClCompile Include="snake.cpp" />
+    <ClCompile Include="stdafx.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
