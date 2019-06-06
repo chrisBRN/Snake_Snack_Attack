@@ -15,4 +15,4 @@ A WINDOWS SNAKE GAME WRITTEN IN C++ BY ChrisBRN
 
 ## Images
 
-![In Game](https://github.com/chrisBRN/Snake_Snake_Attack/blob/master/Snake_Snack_Attack_ScreenCaptures.png "In Game")
+![In Game](https://github.com/chrisBRN/Snake_Snack_Attack/blob/master/Snake_Snack_Attack_ScreenCaptures.png "In Game")
